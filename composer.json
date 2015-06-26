@@ -1,0 +1,20 @@
+{
+    "name": "pixelmelody/httpconnect",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "PHP HTTP Connector a Curl wrapper for easy connections",
+    "authors": [
+        {
+            "name": "Pixelmelody Lab",
+            "email": "lab@pixelmelody.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "pixelmelody\\httpconnect\\": ""
+        }
+    }
+}
